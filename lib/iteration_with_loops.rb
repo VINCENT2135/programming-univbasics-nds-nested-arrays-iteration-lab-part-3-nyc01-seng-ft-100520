@@ -1,6 +1,6 @@
 def join_nested_strings(src)
 
-src.
+src.flatt
 
 v = src(-1..777).to_a
 
